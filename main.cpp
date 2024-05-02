@@ -1,18 +1,6 @@
-
-// FCAI – Structured Programming – 2024 - Assignment 3
-// Program Name: CS112_A3_Part2B_S17-S18_20230461_20230584_20230421.cpp
-// Program Description: This program develops an image processing tool that can apply different filters (changes) to a given image of any size and the four popular image formats.
-// Author1 and ID and Group: Helana Wageh Edward Soltan - 20230461 - Group B - S17
-// Author2 and ID and Group: Malak Reda Mohamed Esmail - 20230584 - Group B - S18
-// Author3 and ID and Group: Menna Talla Gamal Mahmoud - 20230421 - Group B - S18
-// Teaching Assistant: Ahmed Foad
-// Who did what: Menna Talla Gamal: filters 1,4,7,10 and the main menu (bonus: filter 17: Samurai infrared photography filter)
-//               Malak Reda: filters 3,6,9,12 and the system diagram(bonus: filter 16: Purple effect)
-//               Helana Wageh: filters 2,5,8,11 (bonus: filter 15: Wano villagers old Den Den Mushi)
-//Gihub accounts: Menna :https://github.com/Menoooz
-//                Malak :https://github.com/malakreda
-//                Hilana:https://github.com/H-Edward39
-//Repo link: https://github.com/Menoooz/Photoshop-program
+// Authors: Menna Talla Gamal
+//          Malak Reda
+//          Helana Wageh
 //System Diagram drive: https://drive.google.com/file/d/1RLdpI6OyktrvrqQWElVFScp2FAdBJLmg/view?usp=sharing
 
 #include <iostream>
